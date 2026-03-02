@@ -1,4 +1,4 @@
-# 🍽️ Kathi Restaurant Table Booking System
+Enhanced Restaurant Table Booking System
 
 A comprehensive restaurant table booking system with advanced security features, admin dashboard, and customer-facing interface. Built with PHP, MySQL, and Bootstrap.
 
@@ -508,4 +508,5 @@ For issues, questions, or feature requests:
 ---
 
 *Last Updated: March 2026*
+
 *Version: 2.0*
